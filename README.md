@@ -22,6 +22,6 @@ This repository contains a Q&A chatbot built using [OLLAMA](https://ollama.com/)
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ollama-qna-chatbot.git
-cd ollama-qna-chatbot
+git clone https://github.com/swapilverma/Q-A-Chatbot.git
+cd Q-A-Chatbot
 pip install -r requirements.txt
